@@ -23,7 +23,8 @@ max_line_length = 79
 indent_size = 2
 indent_style = space
 
-# Tab indentation for targets: http://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html#tag_20_76_13_04
+# Tab indentation for targets:
+# http://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html#tag_20_76_13_04
 [{M,m}akefile]
 indent_style = tab
 
