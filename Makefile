@@ -9,4 +9,4 @@ install:
 clean:
 	@rm -rf ${VENV_INSTALL_DIR} __pycache__
 
-.PHONEY: install clean
+.PHONY: install clean
